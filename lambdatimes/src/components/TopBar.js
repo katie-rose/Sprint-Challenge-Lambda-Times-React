@@ -28,20 +28,20 @@ const Container = styled.div`
 
 const ContainerLeft = styled.div`
   display: flex;
-  justify-content: none;
+  justify-content: space-around;
   align-items: center;
   flex-direction: row;
   flex: 1;
-  font-size: 11px;
+  font-size: 10px;
 `;
 
 const ContainerCenter = styled.div`
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
   flex-direction: row;
   flex: 3;
-  font-size: 9px;
+  font-size: 10px;
 `;
 
 const ContainerRight = styled.div`
