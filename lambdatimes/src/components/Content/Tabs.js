@@ -17,7 +17,6 @@ const Tabs = props => {
             key={index}
           />
         ))}
-        ); })}
       </div>
     </div>
   );
